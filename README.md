@@ -1,5 +1,7 @@
 # 24 random docker tips
 
+[Csaba Palfi](https://csabapalfi.github.io), Dec 2014
+
 We love docker and had it in production since 0.8 at [TES Global](http://www.tesglobal.com/) (my current client). Couple of us could attend the trainings at dockerConEU thanks to [Contino](http://contino.co.uk/). Here are some of the tips and tricks that will hopefully be useful for anyone who is already familiar with docker basics.
 
 ## 1. CLI
@@ -152,3 +154,5 @@ Boot2docker has TLS as default since 1.3 and also generates the keys for you.
 Otherwise generating keys requires OpenSSL 1.0.1 then the docker daemon needs to be run with --tls-verify and will use the secure docker port (2376).
 
 We're hopefully getting more granular access control soon instead of all or nothing.
+
+![](https://ga-beacon.appspot.com/UA-29212656-1/random-docker-tips?pixel)
