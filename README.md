@@ -1,4 +1,4 @@
-# 24 random docker tips
+# 🐳 24 random docker tips
 
 [Csaba Palfi](https://csabapalfi.github.io), Dec 2014
 
